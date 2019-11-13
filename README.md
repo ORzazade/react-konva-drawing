@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## DEMO
+[Visit demo app](https://orzazade.github.io/react-konva-drawing)
 
 ## Available Scripts
 
