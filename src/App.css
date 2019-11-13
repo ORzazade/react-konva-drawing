@@ -1,0 +1,21 @@
+body {
+ background: rgb(28, 29, 34);
+}
+
+.container {
+  display: flex; 
+  justify-content: center
+}
+
+.toolbar {
+  background: rgb(21, 22, 26);
+  margin-right: 3px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center 
+}
+
+.drawing {
+  cursor: url('./assets/RedPencil.cur'), auto;
+}
