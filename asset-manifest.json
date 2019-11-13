@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-konva-drawing/static/css/main.a3d7dd86.chunk.css",
+    "main.js": "/react-konva-drawing/static/js/main.166e3267.chunk.js",
+    "main.js.map": "/react-konva-drawing/static/js/main.166e3267.chunk.js.map",
+    "runtime-main.js": "/react-konva-drawing/static/js/runtime-main.33e3b113.js",
+    "runtime-main.js.map": "/react-konva-drawing/static/js/runtime-main.33e3b113.js.map",
+    "static/css/2.a88e713f.chunk.css": "/react-konva-drawing/static/css/2.a88e713f.chunk.css",
+    "static/js/2.5c16be13.chunk.js": "/react-konva-drawing/static/js/2.5c16be13.chunk.js",
+    "static/js/2.5c16be13.chunk.js.map": "/react-konva-drawing/static/js/2.5c16be13.chunk.js.map",
+    "index.html": "/react-konva-drawing/index.html",
+    "precache-manifest.eb746ac2003173f1b1e90992f5872334.js": "/react-konva-drawing/precache-manifest.eb746ac2003173f1b1e90992f5872334.js",
+    "service-worker.js": "/react-konva-drawing/service-worker.js",
+    "static/css/2.a88e713f.chunk.css.map": "/react-konva-drawing/static/css/2.a88e713f.chunk.css.map",
+    "static/css/main.a3d7dd86.chunk.css.map": "/react-konva-drawing/static/css/main.a3d7dd86.chunk.css.map",
+    "static/media/Erangel_Main.jpg": "/react-konva-drawing/static/media/Erangel_Main.3627ce4b.jpg",
+    "static/media/App.css": "/react-konva-drawing/static/media/RedPencil.8f33f0cb.cur"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33e3b113.js",
+    "static/css/2.a88e713f.chunk.css",
+    "static/js/2.5c16be13.chunk.js",
+    "static/css/main.a3d7dd86.chunk.css",
+    "static/js/main.166e3267.chunk.js"
+  ]
+}
